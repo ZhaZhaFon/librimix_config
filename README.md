@@ -1,3 +1,8 @@
+### 使用
+使用gen_tiny.sh进行快速、轻量化的Libri2Mixs数据集生成(基于已有LibriSpeech)
+* step1: 修改gen_tiny.sh
+* step2: bash ./gen_tiny.sh
+
 ### About the dataset
 LibriMix is an open source dataset for source separation in noisy 
 environments. It is derived from LibriSpeech signals (clean subset) 
